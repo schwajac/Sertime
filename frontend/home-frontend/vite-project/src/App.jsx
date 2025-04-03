@@ -7,6 +7,7 @@ function App() {
     <>
       <div>Works</div>
       <div>Git test</div>
+      <div>Git test</div>
        
     </>
   )
